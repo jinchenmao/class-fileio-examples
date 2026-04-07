@@ -1,0 +1,8 @@
+Chicken Burger,10,2
+Cocal Cola,3,4
+Chicken Nuggets,1,6
+Chicken Wrap,2,10
+Chicken Wings,1,8
+Sriracha Dip,2,2
+Garlic Dip,2,2
+Vanilla Ice Cream,4,15

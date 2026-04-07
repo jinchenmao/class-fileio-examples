@@ -1,0 +1,4 @@
+diary continues from here
+previous text doesn't go away because we use append()
+fileio/MyDiary.txt
+MyDiary.txt
